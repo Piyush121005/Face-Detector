@@ -31,5 +31,10 @@ This project implements face detection using OpenCV's Haar Cascade Classifier. I
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 2. **Install Required Libraries**:
-   - pip install opencv-python
-3. 
+   ''' pip install opencv-python'''
+
+## Author
+**Bhavya Piyush**
+- 
+You can edit the repository link, paths, and any other specifics before uploading. Let me know if you need further assistance! 😊
+
